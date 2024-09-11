@@ -19,6 +19,7 @@ This project focuses on analyzing the factors contributing to aviation accidents
   3. What recommendations can be derived to reduce accidents and improve safety procedures during high-risk conditions?
 
  ** Data Understanding and Analysis:**
+ 
 **Dataset:** The dataset used for this analysis was obtained from the National Transportation Safety Board (NTSB) Aviation Accident Database, which includes detailed information on aviation accidents such as weather conditions, flight phases, injury severity, and aircraft damage.
 
 **Key Columns:**
